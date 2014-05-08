@@ -1,0 +1,9 @@
+mysql:
+- host    : localhost
+- db      : hotelnok
+- user    : hotelnok
+- password: ao9caesieDai
+
+admin:
+- username: hotelnok
+- password: eijaMeifei3j
